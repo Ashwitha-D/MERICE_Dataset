@@ -1,3 +1,5 @@
+Visit our Research group website - https://haiti.cis.strath.ac.uk/
+
 # MERICE_Dataset
 Multimodal Classroom Engagement Dataset
 
