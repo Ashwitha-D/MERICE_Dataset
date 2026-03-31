@@ -23,7 +23,8 @@ Example frames from the videos
 <img width="1845" height="892" alt="image" src="https://github.com/user-attachments/assets/33aed723-da7d-49fe-94bb-ba459e9bb149" />
 
 
-Saliency maps below highlight the regions of the input that most strongly influence the model’s predictions.
+
+Saliency maps below highlight the regions of the input that most strongly influence the model’s predictions. The figure below presents frames along with their corresponding saliency maps. The final column corresponds to the last frame of the video segment, providing insight into how the model’s focus evolves over time. Across all frames, the model consistently attends to salient regions associated with students’ faces and upper body postures, which are key indicators of engagement. Notably, in the final frame, the model maintains its focus on these regions, suggesting that it captures meaningful visual cues throughout the temporal progression of the video rather than relying on isolated frames. This behaviour indicates that the model effectively leverages spatial information relevant to engagement while remaining robust across the sequence. 
 
 <img width="737" height="404" alt="image" src="https://github.com/user-attachments/assets/7c26a212-85c2-4e27-b2e1-8354cae6e6eb" />
 
