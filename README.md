@@ -1,5 +1,7 @@
 Visit our Research Group website - https://haiti.cis.strath.ac.uk/
 
+The dataset used in this study can be requested through the website 
+
 # MERICE_Dataset
 Multimodal Classroom Engagement Dataset
 
