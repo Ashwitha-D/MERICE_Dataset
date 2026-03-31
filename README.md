@@ -13,4 +13,7 @@ Each video is annotated with one of the following engagement levels:
 * Low
 
 Example frames from the videos
+
 ![95e0a1f2-ce01-4ae4-9a0a-db44cce5c1f5](https://github.com/user-attachments/assets/e1152195-b93d-46f8-bd34-b03dd0a67afa)
+
+<img width="1845" height="892" alt="image" src="https://github.com/user-attachments/assets/33aed723-da7d-49fe-94bb-ba459e9bb149" />
