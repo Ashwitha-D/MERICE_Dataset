@@ -17,3 +17,8 @@ Example frames from the videos
 ![95e0a1f2-ce01-4ae4-9a0a-db44cce5c1f5](https://github.com/user-attachments/assets/e1152195-b93d-46f8-bd34-b03dd0a67afa)
 
 <img width="1845" height="892" alt="image" src="https://github.com/user-attachments/assets/33aed723-da7d-49fe-94bb-ba459e9bb149" />
+
+
+Saliency maps below highlight the regions of the input that most strongly influence the model’s predictions.
+
+<img width="737" height="404" alt="image" src="https://github.com/user-attachments/assets/7c26a212-85c2-4e27-b2e1-8354cae6e6eb" />
