@@ -12,3 +12,5 @@ Each video is annotated with one of the following engagement levels:
 * Medium
 * Low
 
+Example frames from the videos
+![95e0a1f2-ce01-4ae4-9a0a-db44cce5c1f5](https://github.com/user-attachments/assets/e1152195-b93d-46f8-bd34-b03dd0a67afa)
